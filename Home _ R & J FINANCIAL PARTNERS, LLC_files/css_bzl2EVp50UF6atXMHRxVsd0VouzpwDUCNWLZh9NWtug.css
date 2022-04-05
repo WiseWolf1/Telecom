@@ -7,8 +7,8 @@
     text-align: center;
     z-index: 100;
     text-align: center;
-    background: #5bc255;
-    border: 5px solid #fff;
+    background: transparent;
+    border: transparent;
     width: 60px;
     height: 60px;
     display: flex;
@@ -18,7 +18,7 @@
   
   .whatsapp-floating img {
     max-width: 100%;
-    width: 25px;
+    width: 35px;
     margin: 2px auto;
     display: table;
   }
